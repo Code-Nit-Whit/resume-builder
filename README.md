@@ -26,7 +26,7 @@ Although contributions are not yet being accepted, the intention is to eventuall
 
 ## Contact
 
-For inquiries, feedback, or to discuss potential collaborations, please reach out via email at your-email@example.com or connect through LinkedIn at linkedin.com/in/yourusername.
+For inquiries, feedback, or to discuss potential collaborations, please reach out via email at code.nit.whit@gmail.com.
 
 ## License
 
