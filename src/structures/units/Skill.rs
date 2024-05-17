@@ -1,3 +1,5 @@
+use crate::module_name::{Note, Education, Skill};
+
 enum SkillHardness {
     Soft,
     Hard
@@ -18,8 +20,11 @@ enum SkillLevel {
 }
 
 struct Skill {
+    //Internal Use
     uuid: String,
     name: String,
+    notes: Vec<Note>,
+    // Components
     industry: String,
     category: String,
     description: String,
